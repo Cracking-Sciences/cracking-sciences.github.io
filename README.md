@@ -5,4 +5,4 @@
 
 Welcome! This is a doujin music label and tech lab.    
 - We are producing computer music with Tracker/Keygen moods.   
-- We are developing experiemental audio tools and plugins.  
+- We are developing experimental audio tools and plugins.  
