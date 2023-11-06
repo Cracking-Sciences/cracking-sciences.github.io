@@ -4,5 +4,3 @@
 </p>
 
 Welcome! Here is a doujin music label and tech lab.    
-- We are producing computer music and cracking the musical spells.
-- We are developing experimental audio tools and plugins.  
